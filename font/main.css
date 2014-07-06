@@ -11,6 +11,7 @@ i.boob{
   color:#f9e1c7 !important;
   font-size: 200% !important;
   font-style: normal;
+  line-height: 1em !important;
 }
 i.boob:before{
   content:'p' !important;
